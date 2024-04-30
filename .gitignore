@@ -2,5 +2,6 @@
 *.md
 *.xlsx
 *.pyc
+.ipynb_checkpoints
 
 venv
